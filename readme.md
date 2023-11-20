@@ -6,13 +6,8 @@
 ## Staff
 Founder - [mykytatishkin](https://github.com/mykytatishkin)
 
-## Web Projects
-- [Telegram Mini-App Frontend](https://github.com/SandProd/tvoybrunch-miniapp)
-- [Telegram Minin-App Backend](https://github.com/SandProd/tvoybrunch-miniapp-backend)
-
-## AR Projects
-
-## GameDev projects
+## Apps Status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4e1be1bc-5213-4865-9751-732af19395dd/deploy-status)](https://app.netlify.com/sites/roaring-gaufre-d107c3/deploys) **TvoyBrunch Front-End**
 
 ## Links
 
