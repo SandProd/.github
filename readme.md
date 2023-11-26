@@ -7,7 +7,7 @@
 Founder - [mykytatishkin](https://github.com/mykytatishkin)
 
 ## Apps Status
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4e1be1bc-5213-4865-9751-732af19395dd/deploy-status)](https://app.netlify.com/sites/roaring-gaufre-d107c3/deploys) **TvoyBrunch Front-End**
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c64b4a97-9492-4454-ab93-ddaced75917e/deploy-status)](https://app.netlify.com/sites/rococo-lily-4bd96e/deploys) **TvoyBrunch Front-End**
 
 ## Links
 
